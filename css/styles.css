@@ -41,3 +41,9 @@ letter-spacing: 0.02em;
    .first-link:hover{
     color:#404bbf;
    }
+   .first-link:focus{
+    color: #404bbf;
+       }
+    .address{
+       font-style: normal; 
+    }
