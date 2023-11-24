@@ -2,6 +2,7 @@
 :root{
     --blue:#4d5ae5;
     --grey:#2e2f42;
+    --loui:#236758;
 }
 body{
 
@@ -12,12 +13,12 @@ body{
 .nav-logo{
 
    font-family: 'Raleway',sans-serif;
-    font-weight: 800;
-    font-size: 18px;
+   font-weight: 800;
+   font-size: 18px;
    line-height: 1.17;
    letter-spacing: 0.03em;
    text-transform: uppercase;
-   color: var(--blue);
+   color: yellow; 
 
 }
 .nav-link{
