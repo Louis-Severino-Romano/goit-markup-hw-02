@@ -9,16 +9,16 @@ body{
     color:#434455;
     background-color: #FFFFFF;
 }
-.nav{
+.nav-logo{
 
    font-family: 'Raleway',sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.17;
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-    color: var(--blue);
-    text-decoration: none;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: var(--blue);
+   
 }
 .nav-link{
 /* text-decoration: none; */
