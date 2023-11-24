@@ -20,7 +20,7 @@ body{
     color: var(--blue);
     text-decoration: none;
 }
-.link{
+.nav-link{
 /* text-decoration: none; */
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -29,19 +29,19 @@ letter-spacing: 0.02em;
     color:#2e2f42;
    
 }
-.list{
+.nav-list{
     list-style: none;
    }
-.first-link{
+.nav-link-list{
     font-weight: 500;
     font-size: 16px;
     color:var(--grey);
     text-decoration: none;
    }
-   .first-link:hover{
+   .nav-link-list:hover{
     color:#404bbf;
    }
-   .first-link:focus{
+   .nav-link-list:focus{
     color: #404bbf;
        }
     .address{
