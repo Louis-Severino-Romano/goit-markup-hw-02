@@ -1,7 +1,9 @@
+
 body{
 
     font-family:'Roboto', sans-serif;
     color:#434455;
+    background-color: #FFFFFF;
 }
 .nav{
 
@@ -10,4 +12,10 @@ body{
     font-size: 18px;
     line-height: 1.17;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color:#4d5ae5;
+    text-decoration: none;
+}
+.link{
+text-decoration: none;
 }
