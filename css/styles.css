@@ -1,4 +1,7 @@
 
+:root{
+    --blue:#4d5ae5;
+}
 body{
 
     font-family:'Roboto', sans-serif;
@@ -13,7 +16,7 @@ body{
     line-height: 1.17;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    color:#4d5ae5;
+    color:var(--blue);
     text-decoration: none;
 }
 .link{
