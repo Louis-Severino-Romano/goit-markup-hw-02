@@ -23,8 +23,7 @@ body{
 }
 .link{
 text-decoration: none;
-/* line-height: 30.5; */
-letter-spacing: 0.02em;
+
 }
 .span{
     color:#2e2f42;
