@@ -18,7 +18,7 @@ body{
    line-height: 1.17;
    letter-spacing: 0.03em;
    text-transform: uppercase;
-   color: var(--blue); 
+   color:yellow;
 
 }
 
@@ -42,12 +42,12 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
    }
-   .nav-link-list:hover{
+   /* .nav-link-list:hover{
     color:#404bbf;
    }
    .nav-link-list:focus{
     color: #404bbf;
-       }
+       } */
     .address{
        font-style: normal; 
     }
