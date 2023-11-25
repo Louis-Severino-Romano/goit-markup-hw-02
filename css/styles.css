@@ -51,16 +51,16 @@ body{
     .address{
        font-style: normal; 
     }
-    .address-1{
+    .address-list{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color:#434455;
         
             }
-    .address-1:hover{
+    .address-list:hover{
         color:#404bbf;
     }
-    .address-1:focus{
+    .address-list:focus{
         color: #404bbf;
 
         }
