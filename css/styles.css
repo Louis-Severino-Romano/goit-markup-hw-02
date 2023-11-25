@@ -143,9 +143,11 @@ body{
     }
     .pbutton:hover{
         color: #FFFFFF;
+        background-color: #404BBF;
     }
     .pbutton:focus{
         color:#FFFFFF;
+        background-color: #404BBF;
     }
     
     
