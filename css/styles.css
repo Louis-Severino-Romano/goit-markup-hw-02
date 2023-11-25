@@ -119,6 +119,12 @@ body{
     .section-d-list{
         background-color: #FFFFFF;
     }
+    .foter{
+        background-color: var(--grey);
+    }
+    .span-foter{
+        color:#f4f4fd;
+    }
     
 
     
