@@ -3,6 +3,8 @@
     --blue:#4d5ae5;
     --grey:#2e2f42;
     --secbgcolor:#2e2f42;
+    --parcolor:#434455;
+    
 }
 body{
 
@@ -88,6 +90,20 @@ body{
     }
     .button:focus{
         background-color:#404bbf
+    }
+    .section2-list1{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color:var(--secbgcolor);
+    }
+    .section2-par{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color:var(--parcolor);
+        
     }
 
 
