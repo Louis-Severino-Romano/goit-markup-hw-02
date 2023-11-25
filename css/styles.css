@@ -131,6 +131,23 @@ body{
         color:var(--fotcolor);
         letter-spacing: 0.02em;
     }
+    .pbutton{
+        font-family: 'Roboto',sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color:var(--blue);
+        background-color: var(--fotcolor);
+        cursor: pointer;
+    }
+    .pbutton:hover{
+        color: #FFFFFF;
+    }
+    .pbutton:focus{
+        color:#FFFFFF;
+    }
+    
     
 
     
