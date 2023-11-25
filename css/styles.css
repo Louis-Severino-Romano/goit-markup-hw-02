@@ -105,7 +105,7 @@ body{
         color:var(--parcolor);
 
     }
-    .section3-head{
+    .section-c-head{
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
@@ -113,7 +113,7 @@ body{
         text-transform: capitalize;
         color:var(--secbgcolor);
     }
-    .section4{
+    .section-d{
         background-color: #F4F4FD;
     }
 
