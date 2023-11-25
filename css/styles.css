@@ -2,7 +2,7 @@
 :root{
     --blue:#4d5ae5;
     --grey:#2e2f42;
-    
+    --secbgcolor:#2e2f42;
 }
 body{
 
@@ -62,6 +62,17 @@ body{
     }
     .address-list:focus{
         color: #404bbf;
+    }
+    .section{
+        background-color: var(--secbgcolor);
+    }
+    .section-h1{
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+    }
 
-        }
+    
     
