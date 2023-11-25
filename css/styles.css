@@ -105,6 +105,17 @@ body{
         color:var(--parcolor);
 
     }
+    .section3-head{
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color:var(--secbgcolor);
+    }
+    .section4{
+        background-color: #F4F4FD;
+    }
 
 
     
