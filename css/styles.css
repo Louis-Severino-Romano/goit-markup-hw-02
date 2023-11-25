@@ -4,6 +4,7 @@
     --grey:#2e2f42;
     --secbgcolor:#2e2f42;
     --parcolor:#434455;
+    --fotcolor:#F4F4FD;
     
 }
 body{
@@ -124,6 +125,11 @@ body{
     }
     .span-foter{
         color:#f4f4fd;
+    }
+    .foter-par{
+        line-height: 1.5;
+        color:var(--fotcolor);
+        letter-spacing: 0.02em;
     }
     
 
