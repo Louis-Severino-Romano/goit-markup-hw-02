@@ -21,10 +21,12 @@ body{
    color: var(--blue); 
 
 }
-.link{
-text-decoration: none;
 
+.link{
+    text-decoration: none;
 }
+
+
 .span{
     color:#2e2f42;
    
@@ -61,4 +63,8 @@ text-decoration: none;
     .address-1:focus{
         color: #404bbf;
 
+        }
+    .link-add{
+        text-decoration: none;
+        font-size: 200px;
     }
